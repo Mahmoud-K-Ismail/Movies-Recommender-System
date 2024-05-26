@@ -37,10 +37,10 @@ Movies Recommender System is a comprehensive project that implements various rec
    pip install -r requirements.txt
    ```
 3. Download the dataset: Ensure the datasets are available in the project directory. This includes:
-   - `non_personalised_stereotyped_rec.csv\`
-   - `content_based_filtering.csv\`
-   - `User-User Collaborative Filtering - movie-row.csv\`
-   - `Item Item Collaborative Filtering - Ratings.csv\`
+   - `non_personalised_stereotyped_rec.csv`
+   - `content_based_filtering.csv`
+   - `User-User Collaborative Filtering - movie-row.csv`
+   - `Item Item Collaborative Filtering - Ratings.csv`
 
 ### Running the Model
 

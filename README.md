@@ -1,4 +1,4 @@
-# Movies Recommender System (Still under construction)
+# Movies Recommender System 
 
 Movies Recommender System is a comprehensive project that implements various recommendation algorithms to suggest movies to users based on their preferences and ratings. This system utilizes collaborative filtering (both user-user and item-item) and content-based filtering techniques to predict user preferences and recommend movies.
 
